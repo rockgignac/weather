@@ -1,0 +1,11 @@
+# Software
+# Python 3.12 (Anaconda distribution)
+# Jupyter Notebook - used to run Weather_Data.ipynb
+
+# Python libraries
+pandas        # loading, cleaning, joining, and reshaping the data
+numpy         # arrays used to record statistical test results
+matplotlib    # plot labels, titles, and figure settings
+seaborn       # line plots, bar graphs, box plots, and histograms
+scipy         # independent samples t-tests
+statsmodels   # proportions z-tests
